@@ -9,7 +9,7 @@ const config = {
 	title: 'Educating Young Eyes Research Group',
 	tagline: 'Dinosaurs are cool',
 	url: 'https://github.com',
-	baseUrl: '/onboarding/',
+	baseUrl: '/Onboarding/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',

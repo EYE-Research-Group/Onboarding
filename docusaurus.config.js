@@ -15,6 +15,7 @@ const config = {
 	favicon: 'img/favicon.ico',
 	organizationName: 'EYE-Research-Group', // Usually your GitHub org/user name.
 	projectName: 'Onboarding', // Usually your repo name.
+	deploymentBranch: 'gh-pages',
 
 	presets: [
 		[

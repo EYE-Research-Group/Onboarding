@@ -49,7 +49,7 @@ Currently, we have **8 teams** with different projects and focuses. Each team ha
 - QuickCheck: Developing a mobile application to perform vision screening.
 - Toolbox Refactoring: Focus on a set of tools defined by Dr. Pearson.
 - VR: A virtual reality application for detecting and treating Strabismus.
-      - Gamification: To make the treatment as a game in order to make it fun and engaging.
+- Gamification: Currently a sub team for VR Team. To make the treatment as a game in order to make it fun and engaging.
 - UI/UX: Design and prototype websites and applications.
 
 ### What's next?

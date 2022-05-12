@@ -46,10 +46,10 @@ Link: https://drive.google.com/drive/folders/10tyWGRIuMsAodkCjaYRJMZPN0JdpqNIi
 Currently, we have **8 teams** with different projects and focuses. Each team has their own **Discord channel** so ping them if you want more information!
 
 - AWS Backend: Focus on developing services for every application.
-- Gamification: Creating fun and interactive games for the eyes.
 - QuickCheck: Developing a mobile application to perform vision screening.
 - Toolbox Refactoring: Focus on a set of tools defined by Dr. Pearson.
 - VR: A virtual reality application for detecting and treating Strabismus.
+      - Gamification: To make the treatment as a game in order to make it fun and engaging.
 - UI/UX: Design and prototype websites and applications.
 
 ### What's next?
@@ -61,7 +61,7 @@ Once you have on your mind which team you would like to join and which project y
 After your meeting with the team, make sure to read through any documentation of the team to set up your local environment.
 
 Please add your name to the projects you are interested in the below **Lucid Matrix**
-https://lucid.app/lucidspark/b1a98045-7ac0-486f-aa30-e44e829ccae1/edit?invitationId=inv_8a3460fe-4b05-4e0d-9da5-22d3673957df#
+- https://lucid.app/lucidspark/b1a98045-7ac0-486f-aa30-e44e829ccae1/edit?invitationId=inv_8a3460fe-4b05-4e0d-9da5-22d3673957df#
 
 Start exploring the project, playing around with it (and read through the code) until you get the hang of it.
 

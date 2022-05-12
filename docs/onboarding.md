@@ -56,6 +56,7 @@ Currently, we have **8 teams** with different projects and focuses. Each team ha
 - VR: A virtual reality application for detecting and treating Strabismus.
 - Gamification: Currently a sub team for VR Team. To make the treatment as a game in order to make it fun and engaging.
 - UI/UX: Design and prototype websites and applications.
+- Project Management: To facilitate weekly meetings, project status reporting, ownership of onboarding new members, implementing scrum project management methodologies.
 
 ### What's next?
 

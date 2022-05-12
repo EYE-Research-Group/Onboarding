@@ -7,6 +7,7 @@ slug: /
 
 Welcome all new members to **Educating Young Eyes Research Group**.
 
+
 This document provides you information to get you on board with the group and start contributing to our amazing projects!
 
 ## Step 1: Getting Started
@@ -34,9 +35,13 @@ Let everyone know about your skillsets and which area you would like to get invo
 
 ## Step 2: The Projects and Teams
 
-Project Readme and Demo Videos
-
 After you have been added to our GitHub, you can take a look at all repositories to see which project sparks your interest.
+
+### Project Readme Docs and Demo Videos
+
+Link: https://drive.google.com/drive/folders/10tyWGRIuMsAodkCjaYRJMZPN0JdpqNIi
+
+### Teams
 
 Currently, we have **8 teams** with different projects and focuses. Each team has their own **Discord channel** so ping them if you want more information!
 
@@ -47,8 +52,6 @@ Currently, we have **8 teams** with different projects and focuses. Each team ha
 - VR: A virtual reality application for detecting and treating Strabismus.
 - UI/UX: Design and prototype websites and applications.
 
-Current Team Members
-
 ### What's next?
 
 Once you have on your mind which team you would like to join and which project you would like to work on, **set up a meeting** with the team to get more in-depth information.
@@ -56,6 +59,9 @@ Once you have on your mind which team you would like to join and which project y
 ## Step 3: Settle In
 
 After your meeting with the team, make sure to read through any documentation of the team to set up your local environment.
+
+Please add your name to the projects you are interested in the below **Lucid Matrix**
+https://lucid.app/lucidspark/b1a98045-7ac0-486f-aa30-e44e829ccae1/edit?invitationId=inv_8a3460fe-4b05-4e0d-9da5-22d3673957df#
 
 Start exploring the project, playing around with it (and read through the code) until you get the hang of it.
 

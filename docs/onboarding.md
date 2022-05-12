@@ -47,7 +47,7 @@ Link: https://drive.google.com/drive/folders/10tyWGRIuMsAodkCjaYRJMZPN0JdpqNIi
 
 ### Teams
 
-Currently, we have **8 teams** working on different projects and a product/project manager. Each team has their own **Discord channel** so ping them if you want more information!
+Currently, we have **8 teams** working on different projects and a product/project manager. Each team has their own **Trello Board** so ping them if you want more information!
 
 - AWS Backend: Focus on developing services for every application.
 - QuickCheck: Developing a mobile application to perform vision screening.

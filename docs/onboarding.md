@@ -57,6 +57,9 @@ Currently, we have **8 teams** working on different projects and a product/proje
 - UI/UX: Design and prototype websites and applications.
 - Product/Project Manager: To facilitate weekly meetings, project status reporting, ownership of onboarding new members, implementing scrum project management methodologies.
 
+### Work Culture
+
+
 ### What's next?
 
 Once you have on your mind which team you would like to join and which project you would like to work on, **set up a meeting** with the team to get more in-depth information.

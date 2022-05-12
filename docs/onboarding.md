@@ -18,14 +18,11 @@ This document provides you information to get you on board with the group and st
 - Click the **Discord** link in the footer to join our server! 
 - **Save the Zoom meeting link** that you have been sent via email. 
 
+Links: 
 #### Google Drive Link: https://drive.google.com/drive/folders/0B0E52pE9-_njQ2N3MTFqNno2bGs?resourcekey=0-ftzSvgAMQe5B9UKVmQEpRA&usp=sharing
-
 #### Discord Link: https://discord.gg/WWz3k8F4tt
-
 #### Trello Board Links: QuickCheck, EYE Research Group General, Virtual Reality, UI/UX
-
 #### GitHub Organization Link:
-
 #### Meeting Link: https://washington.zoom.us/j/96655710782?pwd=Tm5WV3ZFT0hTOWw5bGlXcXFsd2pMdz09
 
 **Note: We recommend that you use your personal email address for this because if you still want to stick around even after you have graduated, your UW email will be deleted and you will lose any access.**

@@ -8,10 +8,9 @@ slug: /
 Welcome all new members to **Educating Young Eyes Research Group**.
 
 Our Aim/Goal
-- Aim: To develop software applications that can assist with vision screenings, assessments, and therapies. 
+- Aim: Emphasis on usability, clinical efficacy, and solving problems of access to vision care services.
 
-- Goal: Emphasis on usability, clinical efficacy, and solving problems of access to vision care services. 
-
+- Goal: To develop software applications that can assist with vision screenings, assessments, and therapies. 
 
 This document provides you information to get you on board with the group and start contributing to our amazing projects!
 
@@ -48,7 +47,7 @@ Link: https://drive.google.com/drive/folders/10tyWGRIuMsAodkCjaYRJMZPN0JdpqNIi
 
 ### Teams
 
-Currently, we have **8 teams** working on different projects and a project manager. Each team has their own **Discord channel** so ping them if you want more information!
+Currently, we have **8 teams** working on different projects and a product/project manager. Each team has their own **Discord channel** so ping them if you want more information!
 
 - AWS Backend: Focus on developing services for every application.
 - QuickCheck: Developing a mobile application to perform vision screening.
@@ -56,7 +55,7 @@ Currently, we have **8 teams** working on different projects and a project manag
 - VR: A virtual reality application for detecting and treating Strabismus.
 - Gamification: Currently a sub team for VR Team. To make the treatment as a game in order to make it fun and engaging.
 - UI/UX: Design and prototype websites and applications.
-- Project Manager: To facilitate weekly meetings, project status reporting, ownership of onboarding new members, implementing scrum project management methodologies.
+- Product/Project Manager: To facilitate weekly meetings, project status reporting, ownership of onboarding new members, implementing scrum project management methodologies.
 
 ### What's next?
 

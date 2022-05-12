@@ -7,6 +7,11 @@ slug: /
 
 Welcome all new members to **Educating Young Eyes Research Group**.
 
+Our Aim/Goal
+- Aim: To develop software applications that can assist with vision screenings, assessments, and therapies. 
+
+- Goal: Emphasis on usability, clinical efficacy, and solving problems of access to vision care services. 
+
 
 This document provides you information to get you on board with the group and start contributing to our amazing projects!
 

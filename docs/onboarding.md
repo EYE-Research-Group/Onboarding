@@ -7,9 +7,9 @@ slug: /
 
 Welcome all new members to **Educating Young Eyes Research Group**.
 
-Our Aim/Goal
-- Aim: 
-- Goal: 
+Website: 
+[Near Vision Institute](https://nvi.global/, "Near Vision Institute")
+[EYE Research Group](https:https://educatingyoungeyes.org/, "EYE Research Group")
 
 This document provides you information to get you on board with the group and start contributing to our amazing projects!
 

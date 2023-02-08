@@ -29,20 +29,20 @@ To get started...
 # Links: 
 - [Google Drive](https://drive.google.com/drive/folders/0B0E52pE9-_njQ2N3MTFqNno2bGs?resourcekey=0-ftzSvgAMQe5B9UKVmQEpRA&usp=sharing, "Google Drive"), 
 - [Discord Server](https://discord.gg/WWz3k8F4tt, "Discord Server"),
-- [QuickCheck&VR]([https://trello.com/invite/quickcheck4/b344d27ee8bd36d5f4914727963b1969], (https://nearvisioninstitute.atlassian.net/jira/software/projects/QCA/boards/1), "QuickCheck&VR"),
+- [Quick Check and VR]([https://trello.com/invite/quickcheck4/b344d27ee8bd36d5f4914727963b1969], (https://nearvisioninstitute.atlassian.net/jira/software/projects/QCA/boards/1), "QuickCheckandVR"),
                       [Virtual Reality](https://trello.com/invite/eyevrproject/e1f9926ae747591cf9216d96c6c47f15, "Virtual Reality"),
                       [UI/UX](https://trello.com/invite/uiuxteam157/cb626f8784b149afe0352fa531a05030, "UI/UX"),
 - [Zoom Meeting Link](https://washington.zoom.us/j/96655710782?pwd=Tm5WV3ZFT0hTOWw5bGlXcXFsd2pMdz09, "Zoom Meeting Link")
 
 **Note: We recommend that you use your personal email address for this because if you still want to stick around even after you have graduated, your UW email will be deleted and you will lose any access.**
 
-## Step 2: The Projects and Teams
+## Step 2: Overview of the Projects, Project Documents and Onboarding Buddy
 
 After you have been added to the GitHub Organization, you can take a look at all repositories to see which project sparks your interest.
 
 ### Project Readme Docs and Demo Videos
 
-,[ReadmeDocsandDemoVideos](https://drive.google.com/drive/folders/1gS6lsdhMuv25PP18NcnEU0Z1qF7CQYq3?usp=sharing,"Readme Docs and Demo Videos"),
+[ReadmeDocsandDemoVideos](https://drive.google.com/drive/folders/1gS6lsdhMuv25PP18NcnEU0Z1qF7CQYq3?usp=sharing,"ProjectDocuments")
 
 ### Teams
 
@@ -71,9 +71,9 @@ After your meeting with the Onboarding Buddy, make sure to read through any docu
 
 ### Document your KT here 
 
-[KT](https://drive.google.com/drive/folders/0B0E52pE9-_njQ2N3MTFqNno2bGs?resourcekey=0-ftzSvgAMQe5B9UKVmQEpRA&usp=sharing, "New Student KT")
+[KTDocuments](https://drive.google.com/drive/folders/0B0E52pE9-_njQ2N3MTFqNno2bGs?resourcekey=0-ftzSvgAMQe5B9UKVmQEpRA&usp=sharing, "NewStudentKT")
 
-### Please add your name to the projects you are interested in the below **[LucidMatrix](https://lucid.app/lucidspark/b1a98045-7ac0-486f-aa30-e44e829ccae1/edit?invitationId=inv_8a3460fe-4b05-4e0d-9da5-22d3673957df#,"Lucid Matrix")**,
+### Please add your name to the projects you are interested in the below **[Lucid Matrix](https://lucid.app/lucidspark/b1a98045-7ac0-486f-aa30-e44e829ccae1/edit?invitationId=inv_8a3460fe-4b05-4e0d-9da5-22d3673957df#,"LucidMatrix")**,
 
 Start exploring the project, playing around with it (and read through the code) until you get the hang of it.
 

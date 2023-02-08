@@ -18,9 +18,9 @@ This document provides you information to get you on board with the group and st
 ### What you'll need to do
 
 - Request access to our **Google Drive** by contacting Professor Erdly via email.
-- Get invited as a member to our **GitHub organization** and general **Trello board** by contacting any current member.
+- Get invited as a member to our **GitHub Organization** and **JIRA Tool** by contacting any current member.
 - Click the **Discord** link in the footer to join our server! 
-- **Save the Zoom meeting link** that you have been sent via email. 
+- Join your first meeting on Tuesday 3pm at UW1-302 or Thursday 12:30pm via **Zoom Meeting Link**.  
 
 # Links: 
 - [Google Drive](https://drive.google.com/drive/folders/0B0E52pE9-_njQ2N3MTFqNno2bGs?resourcekey=0-ftzSvgAMQe5B9UKVmQEpRA&usp=sharing, "Google Drive"), 
@@ -29,7 +29,7 @@ This document provides you information to get you on board with the group and st
                       [EYE Research Group General](https://trello.com/invite/b/cSjGCvz5/b70f2a29455d5beeac4c38839307647a/trello-board-refinement, "EYE Research Group  General"),
                       [Virtual Reality](https://trello.com/invite/eyevrproject/e1f9926ae747591cf9216d96c6c47f15, "Virtual Reality"),
                       [UI/UX](https://trello.com/invite/uiuxteam157/cb626f8784b149afe0352fa531a05030, "UI/UX"),
-- Zoom Meeting Link: https://washington.zoom.us/j/96655710782?pwd=Tm5WV3ZFT0hTOWw5bGlXcXFsd2pMdz09
+- [Zoom Meeting Link](https://washington.zoom.us/j/96655710782?pwd=Tm5WV3ZFT0hTOWw5bGlXcXFsd2pMdz09, "Zoom Meeting Link")
 
 **Note: We recommend that you use your personal email address for this because if you still want to stick around even after you have graduated, your UW email will be deleted and you will lose any access.**
 

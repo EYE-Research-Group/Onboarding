@@ -29,7 +29,7 @@ To get started...
 # Links: 
 - [Google Drive](https://drive.google.com/drive/folders/0B0E52pE9-_njQ2N3MTFqNno2bGs?resourcekey=0-ftzSvgAMQe5B9UKVmQEpRA&usp=sharing, "Google Drive"), 
 - [Discord Server](https://discord.gg/WWz3k8F4tt, "Discord Server"),
-- [Quick Check and VR]([https://trello.com/invite/quickcheck4/b344d27ee8bd36d5f4914727963b1969], (https://nearvisioninstitute.atlassian.net/jira/software/projects/QCA/boards/1), "QuickCheckandVR"),
+- [Quick Check and VR](https://nearvisioninstitute.atlassian.net/jira/software/projects/QCA/boards/1, "QuickCheckandVR"),
                       [Virtual Reality](https://trello.com/invite/eyevrproject/e1f9926ae747591cf9216d96c6c47f15, "Virtual Reality"),
                       [UI/UX](https://trello.com/invite/uiuxteam157/cb626f8784b149afe0352fa531a05030, "UI/UX"),
 - [Zoom Meeting Link](https://washington.zoom.us/j/96655710782?pwd=Tm5WV3ZFT0hTOWw5bGlXcXFsd2pMdz09, "Zoom Meeting Link")
@@ -63,7 +63,7 @@ We follow a two week Sprint.
 
 Once you have on your mind which team you would like to join and which project you would like to work on, **set up a meeting with Onboarding Buddy** with the team to get more in-depth information.
 
-[YourOnboardingBuddy](https://drive.google.com/drive/folders/1gS6lsdhMuv25PP18NcnEU0Z1qF7CQYq3?usp=sharing,"Your Onboarding Buddy")
+[Your Onboarding Buddy](https://drive.google.com/drive/folders/1gS6lsdhMuv25PP18NcnEU0Z1qF7CQYq3?usp=sharing, "YourOnboardingBuddy")
 
 ## Step 3: Settle In
 
